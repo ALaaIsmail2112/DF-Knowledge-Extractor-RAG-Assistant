@@ -71,6 +71,11 @@ Unlike standard RAG systems that work only with text, this solution supports **t
   
 <img src="https://github.com/user-attachments/assets/61f29223-83ed-4e71-a952-062d63b6b5af" alt="Screenshot 1" width="400" style="margin: 10px;"  />
 <img src="https://github.com/user-attachments/assets/d51042da-b748-434c-83f5-b3bc43d0245e" alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/120dc1a4-50d1-41a9-a25d-6d37ec5680aa" alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/3f52313c-2b7a-4994-8da8-328037fb4b00" alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/77405113-9c00-47c9-b4ab-148247a004fd" alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src=["https://github.com/user-attachments/assets/77405113-9c00-47c9-b4ab-148247a004fd](https://github.com/user-attachments/assets/afef4d64-f454-4ec9-828f-a9da6b909a6d)" alt="Screenshot 1" width="400" style="margin: 10px;"  />
+
 
 
 </div>
