@@ -69,13 +69,13 @@ Unlike standard RAG systems that work only with text, this solution supports **t
 
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/ca67952d-352b-4c06-8f69-c45916eb80d6" alt="Screenshot 1" width="400" style="margin: 10px;"  />
-<img src="https://github.com/user-attachments/assets/bef2965e-8500-4f34-af13-f39a412c42c2"  alt="Screenshot 2" width="400" style="margin: 10px;"  />
-<img src="https://github.com/user-attachments/assets/189dd288-889e-40bb-ac34-886be449ba9e"  alt="Screenshot 3" width="400" style="margin: 10px;"  />
-<img src="https://github.com/user-attachments/assets/e5e1c147-f58c-45c0-a8e0-aba2a589a610" alt="Screenshot 4" width="400" style="margin: 10px;"  />
-<img  src="https://github.com/user-attachments/assets/3ee000e5-d270-4c80-a322-4c582dfe689b" alt="Screenshot 4" width="400" style="margin: 10px;"  />
-<img  src="https://github.com/user-attachments/assets/3ee000e5-d270-4c80-a322-4c582dfe689b" alt="Screenshot 4" width="400" style="margin: 10px;"  />
-<img  src="https://github.com/user-attachments/assets/3ee000e5-d270-4c80-a322-4c582dfe689b" alt="Screenshot 4" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/61f29223-83ed-4e71-a952-062d63b6b5af" alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/eb5d33b9-d9f4-4ab5-a1e3-5c4fbeeea7a1"  alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/ae1e9f7c-abb0-4bcf-962f-870b2abd47dd"  alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/3bc8def4-5fa1-4b55-bd48-ca9325daeeba"  alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/3bc8def4-5fa1-4b55-bd48-ca9325daeeba"  alt="Screenshot 1" width="400" style="margin: 10px;"  />
+<img src="https://github.com/user-attachments/assets/1c1c53a7-c828-4df5-a3b2-6bdc8460e70d"  alt="Screenshot 1" width="400" style="margin: 10px;"  />
+
 </div>
 
 ---
